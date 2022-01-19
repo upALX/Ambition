@@ -2,7 +2,7 @@
 
 **Overview**
 
-A 21st century salon proposal: simple, modern and elegant.
+A 21st century salon proposal: simple, modern and elegant. A wonderfoul and simple responsive web site.
 
 ---
 
@@ -13,6 +13,15 @@ A 21st century salon proposal: simple, modern and elegant.
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 # :pushpin: Topics
+<ul> 
+  <li>About the project</li>
+  <li>What should you do when you find bugs</li>
+  <li>Which license does this project use?</li>
+</ul>
+
+
+
+<h2 id="about"> </h2>
 ## 📗 About
 ## 🐛 Bugs
 ## 📕 License
