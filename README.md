@@ -2,7 +2,7 @@
 
 **Overview**
 
-A 21st century salon proposal: simple, modern and elegant. A wonderfoul and simple responsive web site.
+A 21st century salon proposal: simple, modern and elegant. A wonderful and simple responsive web site.
 
 ---
 
